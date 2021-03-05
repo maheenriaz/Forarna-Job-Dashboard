@@ -1,1 +1,1 @@
-<a href="https://github.com/maheenriaz/Forarna-JobDashboard/blob/main/ezgif.com-gif-maker%20(4).gif"><img src="https://github.com/maheenriaz/Forarna-JobDashboard/blob/main/ezgif.com-gif-maker%20(4).gif" title="react native"></a>
+<a href="https://github.com/maheenriaz/Forarna-Job-Dashboard/blob/main/ezgif.com-gif-maker%20(4).gif.gif"><img src="https://github.com/maheenriaz/Forarna-Job-Dashboard/blob/main/ezgif.com-gif-maker%20(4).gif" title="react native"></a>
